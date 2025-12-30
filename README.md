@@ -4,6 +4,8 @@
 - Python
 - VS Code
 - Pandas, NumPy, Seaborn
+- sql
+- Excel
 
 1.2 Objective
 To analyze inventory inefficiencies, reduce stockouts, optimize EOQ, and improve working capital.
@@ -18,3 +20,4 @@ To analyze inventory inefficiencies, reduce stockouts, optimize EOQ, and improve
 - Reduced excess inventory
 - Better vendor prioritization
 - Improved inventory efficiency
+  
